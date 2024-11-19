@@ -1,0 +1,6 @@
+El assertEquals evalua un valor esperado, con un valor actual
+EL assertTrue valida que tenga un verdadero.
+EL assertFalse valida que tenga un falso.
+El assertNotNull valida que no sea nulo.
+El assertInstanceOf evalua el tipo de objeto.
+El assertThrows valida las excepciones.
