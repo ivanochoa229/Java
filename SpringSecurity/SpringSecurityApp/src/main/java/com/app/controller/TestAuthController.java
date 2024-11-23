@@ -4,7 +4,7 @@ package com.app.controller;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/auth")
+@RequestMapping("/method")
 //@PreAuthorize("denyAll()")
 public class TestAuthController {
 //    @GetMapping("/hello")
